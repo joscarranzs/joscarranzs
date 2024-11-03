@@ -39,6 +39,6 @@
 
 ### 📫 How to Contact Me
 - 📧 Email: [jcarranzsosa@gmail.com](mailto:jcarranzsosa@gmail.com)
-- 🌐 LinkedIn: [jcarranzs](https://www.linkedin.com/in/jcarranzs)
+- 🌐 LinkedIn: [José Carranza](https://www.linkedin.com/in/jcarranzs)
 
 Thank you for visiting my profile!
