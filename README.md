@@ -33,10 +33,6 @@
 - Gain a lot of experience in the world of web development.
 - Start my own technology and innovation company.
 
-### 🎉 Fun Facts
-- I love horror movies! My favorite one is *Terrifier*, featuring the killer clown Art.  
-- I enjoy working in the terminal more than in graphic environments.
-
 ### 📊 GitHub Stats
 ![José's GitHub stats](https://github-readme-stats.vercel.app/api?username=joscarranzs&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joscarranzs&layout=compact)
