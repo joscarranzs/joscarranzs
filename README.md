@@ -7,9 +7,21 @@
 - 👾 I enjoy watching horror movies and working on personal projects.
 
 ### 🛠 Skills
-- Languages: HTML, CSS, JavaScript, Java, C (continuously learning)
-- Tools: Git, GitHub, Vim/Nvim
-- Currently learning: React, Next, Astro, TypeScript, SCSS, SQL
+**Languages (Currently Learning):**
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Frameworks (Currently Learning):**
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
 
 ### 🌍 Languages
 - Spanish (native)
@@ -22,7 +34,7 @@
 - Start my own technology and innovation company.
 
 ### 🎉 Fun Facts
-- I love horror movies! My favorite one is *The Shining*.
+- I love horror movies! My favorite one is *Terrifier*, featuring the killer clown 🤡.
 - I enjoy working in the terminal more than in graphic environments.
 
 ### 📊 GitHub Stats
