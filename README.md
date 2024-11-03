@@ -35,7 +35,6 @@
 
 ### 🎉 Fun Facts
 - I love horror movies! My favorite one is *Terrifier*, featuring the killer clown Art.  
-  ![image](https://github.com/user-attachments/assets/0aa2c06c-c6cd-4274-bdd0-8820895061c5)
 - I enjoy working in the terminal more than in graphic environments.
 
 ### 📊 GitHub Stats
