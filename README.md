@@ -1,48 +1,47 @@
 # Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm José
 
-### 👨‍💻 About Me
-- 💻 I study Software Engineering at Universidad Tecnológica de Panamá.
-- 🌐 I love web development and also mobile app development (I am new to this and learning!).
-- 📚 I like reading and learning about new technologies.
-- 👾 I enjoy watching horror movies and working on personal projects.
+### 👨‍💻 About me
+- 🎓 I study a Bachelor's in Software Management and Development at Universidad Tecnológica de Panamá.
+- 💻 I am passionate about web development, but I would also like to learn new areas, like mobile app development.
+- 📚 I like reading productive books; I have a wide variety.
+- 🎥 In my free time, I enjoy watching movies and series at home.
 
 ### 🛠 Skills
-**Languages (Currently Learning):**
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
+**Languages (constantly learning):**
 
-**Frameworks (Currently Learning):**
+![HTML5](https://skillicons.dev/icons?i=html)
+![CSS3](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![TypeScript](https://skillicons.dev/icons?i=typescript)
+![Java](https://skillicons.dev/icons?i=java)
+![C](https://skillicons.dev/icons?i=c)
+![Lua](https://skillicons.dev/icons?i=lua)
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
+**Frameworks (currently learning):**
 
-**Tools (Intermediate Level)**
+![React](https://skillicons.dev/icons?i=react)
+![Next.js](https://skillicons.dev/icons?i=nextjs)
+![Astro](https://skillicons.dev/icons?i=astro)
 
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
+**Tools (intermediate level):**
+
+![Linux](https://skillicons.dev/icons?i=linux)
+![Neovim](https://skillicons.dev/icons?i=neovim)
+![Git](https://skillicons.dev/icons?i=git)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
 
 ### 🌍 Languages
 - Spanish (native)
 - English (A1 - basic level)
 
 ### 🎯 Goals
-- Contribute to an important project for the community.
-- Develop all my personal projects.
-- Gain a lot of experience in the world of web development.
-- Start my own technology and innovation company.
+- I would like to contribute to open-source projects to support the community.
+- Complete my most ambitious projects in the next few years.
+- Gain a lot of experience in web development and programming in general.
+- Someday, I want to start a technology and innovation company; this is my most important goal in life.
 
-### 📊 GitHub Stats
-![José's GitHub stats](https://github-readme-stats.vercel.app/api?username=joscarranzs&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joscarranzs&layout=compact)
-
-### 📫 How to Contact Me
+### 📫 How to contact me
 - 📧 Email: [jcarranzsosa@gmail.com](mailto:jcarranzsosa@gmail.com)
 - 🌐 LinkedIn: [José Carranza](https://www.linkedin.com/in/jcarranzs)
 
