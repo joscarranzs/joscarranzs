@@ -6,6 +6,8 @@
 - 📚 I like reading productive books; I have a wide variety.
 - 🎥 In my free time, I enjoy watching movies and series at home.
 
+---
+
 ### 🛠 Skills
 
 **Languages (constantly learning):**
@@ -31,15 +33,28 @@
 ![Git](https://skillicons.dev/icons?i=git)
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 
+---
+
+### 📊 GitHub stats
+![Jose's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joscarranzs&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joscarranzs&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=joscarranzs&theme=radical)
+
+---
+
 ### 🌍 Languages
 - Spanish (native)
 - English (A1 - basic level)
+
+---
 
 ### 🎯 Goals
 - I would like to contribute to open-source projects to support the community.
 - Complete my most ambitious projects in the next few years.
 - Gain a lot of experience in web development and programming in general.
 - Someday, I want to start a technology and innovation company; this is my most important goal in life.
+
+---
 
 ### 📫 How to contact me
 - 📧 Email: [jcarranzsosa@gmail.com](mailto:jcarranzsosa@gmail.com)
