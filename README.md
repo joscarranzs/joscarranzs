@@ -32,6 +32,7 @@
 ![Neovim](https://skillicons.dev/icons?i=neovim)
 ![Git](https://skillicons.dev/icons?i=git)
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
+![npm](https://skillicons.dev/icons?i=npm)
 
 ---
 
