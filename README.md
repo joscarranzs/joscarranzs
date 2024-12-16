@@ -17,7 +17,6 @@
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
 ![TypeScript](https://skillicons.dev/icons?i=typescript)
 ![Java](https://skillicons.dev/icons?i=java)
-![C](https://skillicons.dev/icons?i=c)
 ![Lua](https://skillicons.dev/icons?i=lua)
 
 **Frameworks (currently learning):**
