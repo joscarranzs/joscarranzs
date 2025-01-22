@@ -38,7 +38,6 @@
 ### 📊 GitHub stats
 ![Jose's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joscarranzs&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joscarranzs&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=joscarranzs&theme=radical)
 
 ---
 
