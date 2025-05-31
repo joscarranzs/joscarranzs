@@ -49,9 +49,9 @@
 
 ### 🎯 Goals
 - I would like to contribute to open-source projects to support the community.
-- Complete my most ambitious projects in the next few years.
-- Gain a lot of experience in web development and programming in general.
-- Someday, I want to start a technology and innovation company; this is my most important goal in life.
+- I want to complete a list of personal projects in the coming years.
+- Improve as a person and as a professional.
+- My most ambitious goal is to found a technology and innovation company.
 
 ---
 
