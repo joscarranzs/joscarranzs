@@ -1,8 +1,8 @@
 # Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm José
 
 ### 👨‍💻 About me
-- 🎓 I study a Bachelor's in Software Management and Development at Universidad Tecnológica de Panamá.
-- 💻 I am passionate about web development, but I would also like to learn new areas, like mobile app development.
+- 🎓 Full-time self-taught student, focused on learning what interests me.
+- 💻 Especially interested in web development, but learning about other related interests.
 - 📚 I like reading productive books; I have a wide variety.
 - 🎥 In my free time, I enjoy watching movies and series at home.
 
