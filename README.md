@@ -1,32 +1,34 @@
-# Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm José
+# ¡Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Soy José
 
-### 👨‍💻 About me
-- 🎓 Full-time self-taught student, focused on learning what interests me.
-- 💻 Especially interested in web development, but learning about other related interests.
-- 📚 I like reading productive books; I have a wide variety.
-- 🎥 In my free time, I enjoy watching movies and series at home.
+**Desarrollador en aprendizaje continuo**
 
 ---
 
-### 🛠 Skills
+## 👨‍💻 Sobre mí
+- 🎓 Estudiante autodidacta a tiempo completo, enfocado en lo que me interesa aprender.
+- 💻 Principalmente desarrollo web, pero explorando otras áreas.
+- 📚 Me gusta leer libros productivos.
+- 🎥 En mi tiempo libre veo películas y series en casa.
 
-**Languages (constantly learning):**
+---
 
+## 🚀 Tecnologías
+
+### Lenguajes (en aprendizaje constante)
 ![HTML5](https://skillicons.dev/icons?i=html)
 ![CSS3](https://skillicons.dev/icons?i=css)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
 ![TypeScript](https://skillicons.dev/icons?i=typescript)
 ![Java](https://skillicons.dev/icons?i=java)
+![Rust](https://skillicons.dev/icons?i=rust)
 ![Lua](https://skillicons.dev/icons?i=lua)
 
-**Frameworks (currently learning):**
-
+### Frameworks (aprendiendo)
 ![React](https://skillicons.dev/icons?i=react)
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
 ![Astro](https://skillicons.dev/icons?i=astro)
 
-**Tools (intermediate level):**
-
+### Herramientas (nivel intermedio)
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![Neovim](https://skillicons.dev/icons?i=neovim)
 ![Git](https://skillicons.dev/icons?i=git)
@@ -35,28 +37,35 @@
 
 ---
 
-### 📊 GitHub stats
+## ✨ Enfoque actual
+- Aprender Java para construir aplicaciones sólidas.
+- Aprender Rust para entender programación de sistemas y rendimiento.
+- Mejorar buenas prácticas en desarrollo web.
+
+---
+
+## 📊 GitHub stats
 ![Jose's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joscarranzs&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joscarranzs&layout=compact&theme=radical)
 
 ---
 
-### 🌍 Languages
-- Spanish (native)
-- English (A1 - basic level)
+## 🌍 Idiomas
+- Español (nativo)
+- Inglés (A1 - básico)
 
 ---
 
-### 🎯 Goals
-- I would like to contribute to open-source projects to support the community.
-- I want to complete a list of personal projects in the coming years.
-- Improve as a person and as a professional.
-- My most ambitious goal is to found a technology and innovation company.
+## 🎯 Metas
+- Contribuir a proyectos open source.
+- Completar una lista de proyectos personales.
+- Mejorar como persona y profesional.
+- Fundar una empresa de tecnología e innovación.
 
 ---
 
-### 📫 How to contact me
+## 📫 Contacto
 - 📧 Email: [jcarranzsosa@gmail.com](mailto:jcarranzsosa@gmail.com)
 - 🌐 LinkedIn: [José Carranza](https://www.linkedin.com/in/jcarranzs)
 
-Thank you for visiting my profile!
+Gracias por visitar mi perfil.
