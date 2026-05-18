@@ -1,20 +1,20 @@
 # ¡Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Soy José
 
-**Desarrollador en aprendizaje continuo**
+**Estudiante de desarrollo de software (novato)**
 
 ---
 
 ## 👨‍💻 Sobre mí
-- 🎓 Estudiante autodidacta a tiempo completo, enfocado en lo que me interesa aprender.
-- 💻 Principalmente desarrollo web, pero explorando otras áreas.
-- 📚 Me gusta leer libros productivos.
-- 🎥 En mi tiempo libre veo películas y series en casa.
+- 🎓 Estoy aprendiendo programación paso a paso.
+- 💻 Me gusta el desarrollo web y estoy probando otras áreas.
+- 📚 Leo algunos libros para mejorar mis hábitos y aprender mejor.
+- 🎥 En mi tiempo libre veo películas y series.
 
 ---
 
-## 🚀 Tecnologías
+## 🚀 Tecnologías que estoy aprendiendo
 
-### Lenguajes (en aprendizaje constante)
+### Lenguajes
 ![HTML5](https://skillicons.dev/icons?i=html)
 ![CSS3](https://skillicons.dev/icons?i=css)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
@@ -23,24 +23,23 @@
 ![Rust](https://skillicons.dev/icons?i=rust)
 ![Lua](https://skillicons.dev/icons?i=lua)
 
-### Frameworks (aprendiendo)
+### Frameworks
 ![React](https://skillicons.dev/icons?i=react)
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
 ![Astro](https://skillicons.dev/icons?i=astro)
 
-### Herramientas (nivel intermedio)
+### Herramientas
 ![Linux](https://skillicons.dev/icons?i=linux)
-![Neovim](https://skillicons.dev/icons?i=neovim)
 ![Git](https://skillicons.dev/icons?i=git)
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![npm](https://skillicons.dev/icons?i=npm)
 
 ---
 
-## ✨ Enfoque actual
-- Aprender Java para construir aplicaciones sólidas.
-- Aprender Rust para entender programación de sistemas y rendimiento.
-- Mejorar buenas prácticas en desarrollo web.
+## ✨ En qué me estoy enfocando ahora
+- Aprender bien los fundamentos de Java.
+- Empezar con Rust desde lo básico.
+- Hacer proyectos pequeños para practicar.
 
 ---
 
@@ -56,11 +55,10 @@
 
 ---
 
-## 🎯 Metas
-- Contribuir a proyectos open source.
-- Completar una lista de proyectos personales.
-- Mejorar como persona y profesional.
-- Fundar una empresa de tecnología e innovación.
+## 🎯 Metas reales a corto plazo
+- Terminar proyectos simples.
+- Entender bien Git y GitHub.
+- Mejorar mi lógica de programación.
 
 ---
 
